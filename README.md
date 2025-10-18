@@ -1,6 +1,9 @@
 # uvを用いたjupyter notebook開発のミニマム環境
 ## 概要
-- uvを用いた環境での開発を行うためのミニマムなテンプレートリ
+- uvを用いた環境での開発を行うためのミニマムなテンプレート
+
+## 動作確認環境
+- macOS Sequoia 15.3.2
 
 ## the structure of the repository
 
